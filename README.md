@@ -1,1 +1,1 @@
-A website displaying different recipes. Learned to add links, images and create lists.
+A website displaying different recipes. Learned to add links, images, lists and style with CSS.
