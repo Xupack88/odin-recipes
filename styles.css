@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+}
+
+h1,
+h2,
+p,
+ul,
+ol {
+    color: white;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+div {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div#body {
+    max-width: fit-content;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#title {
+    background-color: greenyellow;
+    color: black;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+}
+
+#recipes {
+    color: greenyellow;
+    font-size: 24px;
+    font-weight: 700;
+    width: fit-content;
+}
+
+a:link {
+    color: aqua;
+}
+
+a:visited {
+    color: rebeccapurple;
+}
+
+a:hover {
+    color: greenyellow
+}
